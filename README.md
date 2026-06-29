@@ -41,6 +41,7 @@ The modular architecture allows future integration of AI-based navigation and co
 
 
 🚀 Applications
+
 Indoor exploration
 Hazardous area inspection
 Robotics learning and education
